@@ -1,0 +1,7 @@
+const names = "manoj";
+
+function add(a, b) {
+  return a + b;
+}
+
+module.exports = add;
